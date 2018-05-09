@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Conrad/Projects/recipes/Recipes.Api/Recipes.Api/Recipes.Api.csproj",
+      "projectUniqueName": "/Users/Conrad/Projects/recipes/src/Recipes.Api/Recipes.Api.csproj",
       "projectName": "Recipes.Api",
-      "projectPath": "/Users/Conrad/Projects/recipes/Recipes.Api/Recipes.Api/Recipes.Api.csproj",
+      "projectPath": "/Users/Conrad/Projects/recipes/src/Recipes.Api/Recipes.Api.csproj",
       "packagesPath": "/Users/Conrad/.nuget/packages/",
-      "outputPath": "/Users/Conrad/Projects/recipes/Recipes.Api/Recipes.Api/obj",
+      "outputPath": "/Users/Conrad/Projects/recipes/src/Recipes.Api/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
